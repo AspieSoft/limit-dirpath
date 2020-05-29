@@ -1,12 +1,12 @@
 {
   "name": "@aspiesoft/limit-dirpath",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Set a directory limit for require and fs functions.",
   "license": "MIT",
   "author": "AspieSoft",
   "repository": {
     "type": "git",
-    "url": "git://github.com/aspiesoft/method-limiter"
+    "url": "git://github.com/aspiesoft/limit-dirpath"
   },
   "main": "index.js",
   "keywords": [
