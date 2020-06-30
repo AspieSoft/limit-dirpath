@@ -1,6 +1,6 @@
 {
   "name": "@aspiesoft/limit-dirpath",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Set a directory limit for require and fs functions.",
   "license": "MIT",
   "author": "AspieSoft",
