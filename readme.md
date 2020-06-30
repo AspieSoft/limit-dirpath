@@ -8,7 +8,7 @@
 ![npm](https://img.shields.io/npm/dw/@aspiesoft/limit-dirpath)
 ![npm](https://img.shields.io/npm/dm/@aspiesoft/limit-dirpath)
 
-[![paypal](https://img.shields.io/badge/buy%20me%20a%20coffee-paypal-blue)](https://buymeacoffee.aspiesoft.com/)
+[![paypal](https://img.shields.io/badge/buy%20me%20a%20coffee-paypal-blue)](https://buymeacoffee.aspiesoft.com/from-npm/limit-dirpath)
 
 Set a directory limit for require and fs functions.
 
