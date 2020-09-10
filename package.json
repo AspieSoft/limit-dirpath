@@ -1,9 +1,13 @@
 {
   "name": "@aspiesoft/limit-dirpath",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Set a directory limit for require and fs functions.",
   "license": "MIT",
   "author": "AspieSoft",
+  "scripts": {
+    "test": "node app.js",
+    "build": "node build.js"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/aspiesoft/limit-dirpath"
@@ -13,7 +17,7 @@
     "nodejs"
   ],
   "devDependencies": {
-    "miniforge-js": "^0.2.5"
+    "miniforge-js": "^1.0.0"
   },
   "optionalDependencies": {
     "fs-extra": "^9.0.0"
